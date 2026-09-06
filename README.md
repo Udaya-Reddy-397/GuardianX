@@ -86,8 +86,4 @@ Flash the code in `firmware/` to an ESP32 board using Arduino IDE or PlatformIO.
 
 Designed as an AIML course project, GuardianX demonstrates how embedded systems, real-time backends, and cross-platform apps can combine to build practical rider/worker safety solutions — with a digital twin giving a live, remote view into helmet status without needing physical presence.
 
----
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).﻿
